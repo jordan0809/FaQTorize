@@ -46,8 +46,8 @@ Selected period p = 6
 
 **Python Implementation (Qiskit)**
 
-The Python implementation provides better visualizations of the quantum circuit and the measurement distributions. All algorithmic components (Draper adders, modular exponentiation) are encapsulated within the `Shor` class in `shor_qiskit.py`.
-- Interactive Demo: See `qiskit_demo.ipynb` for example usage. 
+The Python implementation provides better visualizations of the quantum circuit and the measurement distributions. All algorithmic components (Draper adders, modular exponentiation) are encapsulated within the `Shor` class in `qiskit/shor_qiskit.py`.
+- Interactive Demo: See [`qiskit/qiskit_demo.ipynb`](qiskit/qiskit_demo.ipynb) for example usage. 
 
 To run the Python version, ensure you have the requirements installed:
 ```bash
